@@ -1,7 +1,7 @@
 ![Screen](https://user-images.githubusercontent.com/63174602/86038416-cbe5ee80-ba38-11ea-9118-f51135d00396.png)
 
 
-                                                           ================================================
+                           ================================================
 
 La gestion manuelle du parc automobile devient de plus en plus difficile compte tenu de la diversité des tâches à accomplir et du nombre important des employés qui ont besoin de trouver les véhicules disponibles pour leurs missions.
 En outre, le non informatisation de la gestion de parc automobile rend la circulation des informations très lente. En plus, l’absence d’une base de données et le non archivage des documents papiers utilisés rendent les différentes tâches quasiment impossibles l’établissement des statistiques fiables.
@@ -12,7 +12,7 @@ Cette application va traiter au début la gestion des véhicules, la gestion des
 
 
 
-                                                          ================================================
+                             ================================================
                                                           
                                                           
                                                           
@@ -22,7 +22,7 @@ Cette application va traiter au début la gestion des véhicules, la gestion des
 
 
 
-                                                          ================================================
+                              ================================================
                                                           
                                                           
 
